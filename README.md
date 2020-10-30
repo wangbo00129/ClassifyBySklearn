@@ -5,7 +5,7 @@ Run ClassifyBySklearn.py -h for usage.
 
 ## ChooseMostImportantFeatures.py 
 is used to choose best features. 
-Run ClassifyBySklearn.py -h for usage. 
+Run ChooseMostImportantFeatures.py -h for usage. 
 
 ## ClassificationHelperFunctions.py 
 contains helper functions for the cross validations or train or tests. 
